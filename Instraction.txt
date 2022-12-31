@@ -1,3 +1,18 @@
+Life time one time
+------------
+git config --global user.name "sajibdigital"
+git config --global user.email sakifraihan@gmail.com
+
+first time
+----------------
+git init
+git commit -m "first commit"
+git branch -M main
+git remote add origin https://github.com/sajibdigital/python_module-ten.git
+git push -u origin main
+
+
+
 => git add .
 => git commit -m "Txt file added"
 => git push
